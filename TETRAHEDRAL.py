@@ -3,6 +3,8 @@ Author: Arman Hossain
 Date  : 9-10-2023 (dd/mm/yy)
 program for finding if a number is tetrahedral or not.
 You can also find nth tetrahedral number.
+UPDATE: THIS CODE IS SLOW AS FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCK!!!!!
+CHECK ANOTHER CODE IN THIS REPOSITORY
 """
 def tetrahedralnumber(n):
     tetrahedral = 0
